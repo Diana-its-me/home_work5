@@ -1,0 +1,51 @@
+/*2*/
+div > p {
+  background-color: aquamarine;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  width: 98%;
+  margin: 10px 1%;
+}
+/*2*/
+h1 + p {
+  color: #876898;
+}
+/*2*/
+section > p {
+  background-color: blueviolet;
+}
+/*2*/
+p ~ span {
+  color: brown;
+}
+/*2*/
+section > p {
+  background-color: gold;
+}
+/*11*/
+.wrapper > p {
+  color: rgb(255, 115, 222);
+}
+/*100*/
+#special {
+  background-color: chocolate;
+}
+/*101*/
+#special {
+  background-color: darkslateblue;
+}
+/*11*/
+.container > p {
+  color: rgb(223, 8, 8);
+}
+/*11*/
+.wrapper > a {
+  background-color: gold;
+}
+/*1*/
+h2 {
+  color: indigo;
+}
